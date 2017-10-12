@@ -14,7 +14,7 @@ The goals / steps of this project are the following:
 [image1]: ./examples/grayscale.jpg "Grayscale"
 
 [image_canny1]: ./test_images_output/solidWhiteRight_canny.jpg "Canny"
-[image_hough1]: ./test_images_output/solidWhiteRight_hough "Hough Transform"
+[image_hough1]: ./test_images_output/solidWhiteRight_hough.jpg "Hough Transform"
 
 ---
 
